@@ -1,0 +1,73 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Blog
+build_property.RootNamespace = Blog
+build_property.ProjectDir = /Users/abdokamhawy/Projects/Blog/Blog/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/abdokamhawy/Projects/Blog/Blog
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/abdokamhawy/Projects/Blog/Blog/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/abdokamhawy/Projects/Blog/Blog/Views/categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvY2F0ZWdvcmllcy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/abdokamhawy/Projects/Blog/Blog/Views/categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvY2F0ZWdvcmllcy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/abdokamhawy/Projects/Blog/Blog/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/abdokamhawy/Projects/Blog/Blog/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/abdokamhawy/Projects/Blog/Blog/Views/Post/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUG9zdC9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/abdokamhawy/Projects/Blog/Blog/Views/Post/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUG9zdC9pbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/abdokamhawy/Projects/Blog/Blog/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/abdokamhawy/Projects/Blog/Blog/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/abdokamhawy/Projects/Blog/Blog/Views/User/form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9mb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/abdokamhawy/Projects/Blog/Blog/Views/User/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9pbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/abdokamhawy/Projects/Blog/Blog/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/abdokamhawy/Projects/Blog/Blog/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/abdokamhawy/Projects/Blog/Blog/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-abvrrlg6qb

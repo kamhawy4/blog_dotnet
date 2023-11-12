@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{D15513A8-6CE7-4EAE-9361-EE53A8FFD9C7}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Blog PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Blog/Program.cs">
+    <Files>
+      <File FileName="Blog/Models/Categories.cs" Line="9" Column="23" />
+      <File FileName="Blog/Models/Posts.cs" />
+      <File FileName="Blog/Models/User.cs" />
+      <File FileName="Blog/Models/ErrorViewModel.cs" />
+      <File FileName="Blog/Controllers/CategorieController.cs" />
+      <File FileName="Blog/Controllers/PostController.cs" />
+      <File FileName="Blog/Controllers/HomeController.cs" />
+      <File FileName="Blog/appsettings.json" />
+      <File FileName="Blog/Program.cs" Line="36" Column="1" />
+      <File FileName="Blog/Migrations/BLOGDbContextModelSnapshot.cs" Line="1" Column="1" />
+      <File FileName="Blog/Controllers/UserController.cs" Line="8" Column="29" />
+      <File FileName="Blog/Views/categories/index.cshtml" />
+      <File FileName="Blog/Views/Post/index.cshtml" Line="4" Column="1" />
+      <File FileName="Blog/Views/users/index.cshtml" Line="17" Column="17" />
+      <File FileName="Blog/Views/Post/Create.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Blog" expanded="True">
+            <Node name="Blog" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Post" expanded="True" />
+                <Node name="User" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
